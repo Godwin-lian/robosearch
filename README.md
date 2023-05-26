@@ -2,6 +2,8 @@
 
 The project is a React application called "Robosearch". This application displays a list of robots and allows users to search for robots based on their names. It is developed as a demonstration of using React.
 
+![Preview](preview.png)
+
 Features
 Displays a list of robots from an external API.
 Includes a search feature to filter robots based on name.
